@@ -1,0 +1,31 @@
+{
+    "feature": "mining_dimension:ore_tuff",
+    "placement": [
+      {
+        "type": "minecraft:count",
+        "count": {
+            "type": "minecraft:uniform",
+            "max_inclusive": 6,
+            "min_inclusive": 3
+        }
+      },
+      {
+        "type": "minecraft:in_square"
+      },
+      {
+        "type": "minecraft:height_range",
+        "height": {
+          "type": "minecraft:uniform",
+          "max_inclusive": {
+            "absolute": 64
+          },
+          "min_inclusive": {
+            "absolute": -64
+          }
+        }
+      },
+      {
+        "type": "minecraft:biome"
+      }
+    ]
+  }
