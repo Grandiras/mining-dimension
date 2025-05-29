@@ -53,7 +53,9 @@
     [],
     [],
     [],
-    []
+    [
+      "mining_dimension:spawn_platform"
+    ]
   ],
   "has_precipitation": true,
   "spawn_costs": {},
