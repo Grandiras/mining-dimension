@@ -1,0 +1,69 @@
+{
+  "carvers": {},
+  "downfall": 0.4,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.dripstone_caves"
+    },
+    "sky_color": 7907327,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "mining_dimension:ore_coal",
+      "mining_dimension:ore_iron",
+      "mining_dimension:ore_iron_large",
+      "mining_dimension:ore_copper",
+      "mining_dimension:ore_copper_large",
+      "mining_dimension:ore_emerald",
+      "mining_dimension:ore_lapis",
+      "mining_dimension:ore_redstone",
+      "mining_dimension:ore_gold",
+      "mining_dimension:ore_diamond",
+      "mining_dimension:ore_diamond_medium",
+      "mining_dimension:ore_diamond_large",
+      "mining_dimension:ore_andesite",
+      "mining_dimension:ore_granite",
+      "mining_dimension:ore_diorite",
+      "mining_dimension:ore_tuff",
+      "mining_dimension:ore_clay",
+      "mining_dimension:ore_dirt"
+    ],
+    [],
+    [],
+    [],
+    [
+      "mining_dimension:spawn_platform"
+    ]
+  ],
+  "has_precipitation": true,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.8
+}

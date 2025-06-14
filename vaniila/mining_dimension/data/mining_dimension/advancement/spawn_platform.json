@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "travelling_to_mining_dimension": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "mining_dimension:mining_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "function": "mining_dimension:schedule_spawn_platform"
+  }
+}

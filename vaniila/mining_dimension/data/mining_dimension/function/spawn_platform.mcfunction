@@ -1,0 +1,1 @@
+execute in mining_dimension:mining_dimension run place feature minecraft:end_platform 0 128 0
