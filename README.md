@@ -8,6 +8,14 @@ Sick of strip-mining the Overworld for a handful of diamonds? Mining Dimension 
 - Create-ready: Includes generation layers for Zinc 
 - Balanced height map: Diamond & Gold sit deep, while coal and copper are abundant near the ceiling.
 
+## Ore Distribution
+
+![Ore Distribution](ore_distribution.png)
+
+```Diamond - Gold - Redstone - Lapis Lazuli - Zinc - Copper - Emerald - Coal - Iron```
+
+> The stripes' thickness is not to scale!
+
 ## Access
 You can enter the Dimension with the command /execute in mining_dimension:mining_dimension run tp @s 0 128 0.
 But be careful. This Datapack is made for Modpack Developer. Modpack Developers should develop a way to access it!
